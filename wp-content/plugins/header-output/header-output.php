@@ -5,7 +5,7 @@
   Description: Add output content to page headers using plugin actions
   Author: Georges Ngandeu
   Version: 1.0
-  Author URI: https://github.com/Georges-Ngandeu
+  Author URI: https://github.com/Georges-Ngandeu/wordpress_plugins_examples
  */
 
 add_action( 'wp_head', 'page_header_output' );
