@@ -3,7 +3,7 @@
 /*
   Plugin Name: Twitter Shortcode
   Plugin URI: 
-  Description: Createa new simple shortcode'
+  Description: Createa new simple shortcode
   Author: Georges Ngandeu
   Version: 1.0
   Author URI: https://github.com/Georges-Ngandeu/wordpress_plugins_examples
